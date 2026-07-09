@@ -1,3 +1,5 @@
+# Enter N elements in list
+
 def main():
     No = int(input("Enter the no of elements in list :"))
     Data = []
